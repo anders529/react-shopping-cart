@@ -3,7 +3,7 @@ import { Route } from 'react-router-dom';
 import data from './data';
 // Context
 import {ProductContext} from './contexts/ProductContext.js';
-import {CartContext} from './contexts/CartContexts.js';
+import {CartContext} from './contexts/CartContext.js';
 // Components
 import Navigation from './components/Navigation';
 import Products from './components/Products';
